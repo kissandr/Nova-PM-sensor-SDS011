@@ -1,7 +1,9 @@
-# Nova-PM-sensor-SDS011 installation:
+# Nova-PM-sensor-SDS011
+## installation:
+```
  git clone https://github.com/kissandr/Nova-PM-sensor-SDS011.git
  apt-get install python-serial
-
+```
 add to crontab
 ```
  crontab -e
